@@ -331,7 +331,7 @@ This dashboard uses **publicly available data** published by the National Disabi
 
 An analyst working at the intersection of data and disability services, with hands-on experience translating complex NDIS scheme data into actionable insights for operational and strategic decision-making.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/[your-profile])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surangani-data-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/surangisns)
 
 ---
