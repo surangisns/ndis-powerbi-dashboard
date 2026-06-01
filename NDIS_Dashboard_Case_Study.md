@@ -212,8 +212,8 @@ This dashboard — if deployed in a real organisational context — would enable
 
 This project was completed as an independent portfolio initiative to demonstrate applied analytics capability in a domain-relevant context.
 
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surangani-data-analyst/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/surangisns) | [LinkedIn](https://www.linkedin.com/in/surangani-data-analyst/) | [GitHub](https://github.com/surangisns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/surangani-data-analyst/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat&logo=github)](https://github.com/surangisns)
 
 ---
 
