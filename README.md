@@ -256,19 +256,24 @@ DIVIDE(
 - High comorbidity is confirmed across the scheme — a **0.47 primary-to-reported diagnosis ratio** indicates most participants carry multiple reported conditions
 
 ---
-
-## Key Insights
+ ## Screenshots 
 
 | Page | Preview |
 |---|---|
-| Executive Overview | ![Executive Overview](01_executive_overview.png) |
-| Participant & Budget Analysis | ![Participant & Budget Analysis](02_participant_budget_analysis.png) |
-| Utilisation Analysis | ![Utilisation Analysis](03_utilisation_analysis.png) |
-| Diagnosis Insights | ![Diagnosis Insights](04_diagnosis_insights.png) |
-| Plan Management Insights | ![Plan Management Insights](05_plan_management_insights.png) |
-| State & District Drilldown | ![State & District Drilldown](06_state_district_drilldown.png) |
-| Data Quality & Methodology | ![Data Quality & Methodology](07_data_quality_methodology.png) |
----
+ Executive Overview | ![Executive Overview](screenshots/01_executive_overview.png) |
+| Participant & Budget Analysis | ![Participant & Budget Analysis](screenshots/02_participant_budget_analysis.png) |
+| Utilisation Analysis | ![Utilisation Analysis](screenshots/03_utilisation_analysis.png) |
+| Diagnosis Insights | ![Diagnosis Insights](screenshots/04_diagnosis_insights.png) |
+| Plan Management Insights | ![Plan Management Insights](screenshots/05_plan_management_insights.png) |
+| State & District Drilldown | ![State & District Drilldown](screenshots/06_state_district_drilldown.png) |
+| Data Quality & Methodology | ![Data Quality & Methodology](screenshots/07_data_quality_methodology.png) |
+
+## Screenshots 
+
+
+
+
+
 
 ## How to View
 
