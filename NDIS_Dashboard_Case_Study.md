@@ -2,7 +2,7 @@
 ## NDIS Participant, Budget, Utilisation & Plan Management Insights Dashboard
 
 **Author:** Surangani Bandara
-**Role:** Insights & Reporting Analyst — Forever Cornerstone
+**Role:** Insights & Reporting Analyst 
 **Tool:** Microsoft Power BI (DAX · Power Query)
 **Project Type:** Independent Portfolio Project
 **Data:** Public NDIS Quarterly Data | 5 Quarters | 1.78M Rows | 4 Datasets
