@@ -25,7 +25,7 @@
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 The **National Disability Insurance Scheme (NDIS)** is one of Australia's largest social policy programs, supporting hundreds of thousands of Australians with permanent and significant disability. The NDIA releases quarterly public datasets that provide transparency into scheme performance — but these datasets require significant transformation and analytical effort to extract meaningful insights.
 
@@ -48,7 +48,7 @@ This project transforms raw NDIA public data into a fully interactive, executive
 
 ---
 
-## 📑 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — Executive Overview
 *Landing page · National scheme snapshot*
@@ -147,7 +147,7 @@ A reference page that documents data sources, row counts, privacy suppression vo
 
 ---
 
-## 🗂️ Data Sources
+## Data Sources
 
 All data used in this project is **publicly available** and sourced from the official NDIA Quarterly Report publications.
 
@@ -170,7 +170,7 @@ All data used in this project is **publicly available** and sourced from the off
 
 ---
 
-## ⚙️ Technical Implementation
+## Technical Implementation
 
 ### Data Transformation — Power Query (M)
 - Ingested 4 separate quarterly CSV datasets and appended across 5 quarters into unified fact tables
@@ -244,7 +244,7 @@ DIVIDE(
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - **774K active participants** as at March 2026, with **7% scheme growth** over 5 quarters and a steady **2% QoQ growth rate**
 - **Utilisation rate declined** from 73.9% to 69.7% across the 5-quarter period — remaining below the 80% NDIS benchmark, with Capacity Building supports the lowest at **54%**
@@ -257,7 +257,7 @@ DIVIDE(
 
 ---
 
-## 🖼️ Screenshots
+## Key Insights
 
 | Page | Preview |
 |---|---|
@@ -270,7 +270,7 @@ DIVIDE(
 | Data Quality & Methodology | ![Data Quality & Methodology](07_data_quality_methodology.png) |
 ---
 
-## 👁️ How to View
+## How to View
 
 ### Option A — Power BI Service (Recommended)
 View the published dashboard directly in your browser — no software required:
@@ -287,7 +287,7 @@ A static PDF export of all 7 pages is available in the `/exports` folder for qui
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 ndis-powerbi-dashboard/
@@ -314,13 +314,12 @@ ndis-powerbi-dashboard/
 
 ---
 
-## ⚠️ Data Disclaimer
-
+## Data Disclaimer
 This dashboard uses **publicly available data** published by the National Disability Insurance Agency (NDIA) via the NDIS Data and Research Portal. All data has been used in accordance with the NDIA's open data licensing terms. No personally identifiable information (PII) is included in any dataset. Privacy suppression has been applied by the NDIA to small participant counts — this is documented in the Data Quality & Methodology page of the dashboard. This project is independent and not affiliated with or endorsed by the NDIA or the Australian Government.
 
 ---
 
-## 👩‍💻 About the Author
+## About the Author
 
 **Surangani Bandara**
 *Insights & Reporting Analyst — Forever Cornerstone*
